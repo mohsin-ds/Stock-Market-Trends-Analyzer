@@ -16,7 +16,7 @@ This project covers:
 
 ## 📂 Dataset Information
 
-* **Source**: [Yahoo Finance – Tesla (TSLA)](https://finance.yahoo.com/quote/TSLA/history/)
+* **Source**: https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021
 * **Columns Used**:
 
   * `Date` → Trading date
@@ -41,9 +41,13 @@ This project covers:
 ## 📑 Analysis Performed
 
 ✔️ Daily returns calculation
+
 ✔️ 50-day and 200-day moving averages
+
 ✔️ Max, Min, Average stock price
+
 ✔️ Volatility (standard deviation of returns)
+
 ✔️ Monthly average close price
 
 ---
